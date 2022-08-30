@@ -120,7 +120,7 @@
     transform: translateY(-100px) translateX(-150px) translateY(150px);
     transition-delay: 2s;
     width: 250px;
-    height: 450px;
+    height: 500px;
     border-radius: 5;
     z-index:5;
   }
